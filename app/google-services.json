@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224302554108",
+    "project_id": "signinfirebase-58303",
+    "storage_bucket": "signinfirebase-58303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224302554108:android:2e218bfed2ae73b2017079",
+        "android_client_info": {
+          "package_name": "com.orderbros.signinfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfY8S_6yq0hLe8qZ3pxOYIi2V_0xtMCiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
